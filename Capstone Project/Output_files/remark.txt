@@ -1,0 +1,21 @@
+Remark Type: Client
+Remark: This is a valid client remark.
+=================================
+Remark Type: Client
+Remark: This is the First valid test case for remark
+=================================
+Remark Type: Optometrist
+Remark: Consider blue light-blocking lenses due to prolonged screen exposure
+=================================
+Remark Type: Optometrist
+Remark: Schedule a follow-up to monitor any changes in vision
+=================================
+Remark Type: Optometrist
+Remark: Revisit in 6 months for a check-up
+=================================
+Remark Type: Client
+Remark: This is the second valid test case for remark
+=================================
+Remark Type: Optometrist
+Remark: Recommend lubricating eye drops for dry eyes
+=================================

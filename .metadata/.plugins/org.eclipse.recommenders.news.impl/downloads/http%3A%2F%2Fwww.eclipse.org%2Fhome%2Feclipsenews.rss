@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://newsroom.eclipse.org/">
+  <channel>
+    <title>Eclipse Announcements</title>
+    <link>https://newsroom.eclipse.org/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Eclipse Zenoh 1.0.0 Debuts, Redefining Connectivity for Robotics and Automotive</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-zenoh-100-debuts-redefining-connectivity-robotics-and-automotive</link>
+  <description>
+&lt;span&gt;Eclipse Zenoh 1.0.0 Debuts, Redefining Connectivity for Robotics and Automotive&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-10-21T06:00:00-04:00" title="Monday, October 21, 2024 - 06:00"&gt;Mon, 2024-10-21 06:00&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;&lt;strong&gt;BRUSSELS – 21 October 2024 –&lt;/strong&gt;The Eclipse Foundation, a leading open source foundation, today announced the release of Eclipse Zenoh 1.0.0, a breakthrough open source protocol that seamlessly integrates communication, storage, and computation in embedded systems and across cloud platforms. This milestone release builds on years of development and real-world deployment experience, delivering new features tailored for developers and engineers in robotics, automotive, and broader edge and IoT sectors.&lt;/p&gt;
+&lt;p&gt;“Eclipse Zenoh has proven to be a valuable protocol for innovative robotics and automotive applications, and with this release, we expect that trajectory to accelerate,” said Mike Milinkovich, executive director of the Eclipse Foundation. “Its unique blend of abstraction, scalability, and high performance make it ideal for complex, real-time applications like advanced robotics.”&lt;/p&gt;
+&lt;p&gt;Eclipse Zenoh, which has been in use for several years, unifies data in motion, data at rest, and computations. The 1.0.0 release represents a significant evolution, incorporating insights from industrial deployments to deliver a mature, production-ready solution.&lt;/p&gt;
+&lt;p&gt;“The Eclipse Zenoh 1.0.0 release represents a carefully considered step forward,” said Angelo Corsaro, CEO &amp;amp; CTO of ZettaScale, the creator of the Zenoh project. “We've taken the time to learn from real-world implementations, refining Zenoh to meet the complex needs of modern network communication. This release offers developers an efficient, scalable toolset that streamlines development and communication across critical technology stacks.”&lt;/p&gt;
+&lt;p&gt;Key enhancements in Eclipse Zenoh 1.0.0 include shared memory and zero-copy support, advanced end-to-end protection, high-performance access control, and specific extensions for robotics and automotive protocols. As the 1.0.0 release, the update also introduces backward compatibility and enables long-term support.&lt;/p&gt;
+&lt;p&gt;Eclipse Zenoh has gained significant adoption across industries such as manufacturing, transportation, medical, and industrial automation. To see a list of industry adopters, visit &lt;a href="https://www.globenewswire.com/Tracker?data=9E5Tp7HWTzoV0d4DI28pz1L8rmE39AUsc-fPZxRB-qCvltpOKcavyKTuYiliir5_esyDQqWkEuL-1QHCC-8RSBnaq61ROcSuOFNUPFsqyas=" rel="nofollow"&gt;zenoh.io/adopters&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Eclipse Zenoh has also been recognised by the Robot Operating System (ROS) community as the leading protocol for robotics, further validating its capabilities in robotics applications.&lt;/p&gt;
+&lt;p&gt;Eclipse Zenoh 1.0.0 is now available for download at &lt;a href="https://www.globenewswire.com/Tracker?data=9E5Tp7HWTzoV0d4DI28pzxW-DB1SRjrLs41HoXinnvYTI9I6gburSHBnPf1PvvAyGP2eoQQ6QBX_zX83L3VEe1E12D9yf4z210RU1-p_hQ7lFo754fZ0kULQpW8OIKsnfSJnfMyjS2piCcuuLwCCii2YulPB7Duf0CxMS2VDeSk=" rel="nofollow"&gt;&lt;u&gt;github.com/eclipse-zenoh/zenoh/releases&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;br&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 420 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 385 members. Visit us at this year’s &lt;a href="https://www.globenewswire.com/Tracker?data=9HkWDQg662vSaZfIYhCmtvjzZkscdzfABmNmAU82TkWegXiPdI09MvA-_WXCcqmv9HmUkuhpk-urN9QtqfFyJLVBaEvWsA21w78feGWz2CPOBHRcpsqhLN_FJ3z4S2MA" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media &lt;a href="https://www.globenewswire.com/Tracker?data=uP7n92H1U9rGJ1T5CQtLk9FcHAB062yxKR3Gr_7YER9XxNxMwNfLOpZCVpev66Yvcd6ajY3mNZ5uB2jRC09TL9mb5Irvd5FbiZ6lgyQC0y0=" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;, &lt;a href="https://www.globenewswire.com/Tracker?data=uYRug5MZ2RaCGThlrxJ05hshruwrikone5woOkgPaiC3jQCeZm21aPuK5Tdp0bmWeU69TFWgqzbrAGzM6tMyKuw7lUWlqUVgbAoWjb5P3Us=" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit &lt;a href="https://www.globenewswire.com/Tracker?data=JyTI2vP_5FzAFAZ0VJ4KIBufxggoYB3AZv6VUmdttVG5E_GnD0lZ-taAmLyy88MFrcivdshRbhRwPx-OnTyA6Q==" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;br&gt;&lt;u&gt;Schwartz Public Relations (Germany)&lt;/u&gt;&lt;br&gt;Gloria Huppert/Marita Bäumer&lt;br&gt;Sendlinger Straße 42A&lt;br&gt;80331 Munich&lt;br&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;br&gt;+49 (89) 211 871 -70/ -62&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;514 Media Ltd (France, Italy, Spain)&lt;/u&gt;&lt;br&gt;Benoit Simoneau&lt;br&gt;&lt;a href="https://www.globenewswire.com/Tracker?data=Jc5qiIb7hGlylyudM8cNdJ_9OhDMtAEAkMjSg6t58dwcxvCMa97W5t5t8emeqLsm2G566-z1wHPKmTbZNKx811IvpWgy6AWBM0cA6674RNw=" rel="nofollow"&gt;&lt;u&gt;benoit@514-media.com&lt;/u&gt;&lt;/a&gt;&lt;br&gt;M: +44 (0) 7891 920 370&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Nichols Communications (Global Press Contact)&lt;/u&gt;&lt;br&gt;Jay Nichols&lt;br&gt;&lt;a href="https://www.globenewswire.com/Tracker?data=nHV_s4EpEwz0Z-v6qNaZuwpGVImQt0wSy34Wv8yYf-vu75S7bhbosEqqzV2WPMhWU68ifCTCvNCI7yXw2wLqlRTjWXAVMRgjq0qrfqh4jmE=" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;br&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Mon, 21 Oct 2024 10:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">41061 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>The Eclipse Foundation Releases the 2024 Jakarta EE Developer Survey Report</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-releases-2024-jakarta-ee-developer-survey-report</link>
+  <description>
+&lt;span&gt;The Eclipse Foundation Releases the 2024 Jakarta EE Developer Survey Report&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-10-15T05:45:00-04:00" title="Tuesday, October 15, 2024 - 05:45"&gt;Tue, 2024-10-15 05:45&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS – 15 October 2024 –&amp;nbsp;&lt;/strong&gt;&lt;a href="http://www.eclipse.org" rel="nofollow"&gt;&lt;u&gt;The Eclipse Foundation&lt;/u&gt;&lt;/a&gt;, one of the world’s largest open source software foundations, today announced the availability of the 2024 Jakarta EE Developer Survey Report, the industry’s most prominent survey for technical insights into enterprise Java. The results showcase a significantly increased growth in the use of Jakarta EE and a growing interest in cloud native Java overall. The 2024 Jakarta EE Developer Survey Report can be downloaded in its entirety&amp;nbsp;&lt;a href="https://outreach.eclipse.foundation/jakarta-ee-developer-survey-2024" rel="nofollow"&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;“The growing adoption of Jakarta EE and cloud native Java technologies shows that the enterprise Java ecosystem continues to evolve in line with modern development practices,” said Mike Milinkovich, executive director of the Eclipse Foundation. “With Jakarta EE 11 on the horizon, we are committed to delivering innovations that align with the evolving needs of the enterprise Java ecosystem.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;Now in its seventh year, the Jakarta EE Developer Survey continues to be a vital resource for understanding developer needs, preferences, and trends within the Java ecosystem. It also offers business leaders valuable insights into the evolving landscape of cloud native enterprise Java, helping them shape their strategies. Conducted from March 19 to May 31, 2024, the survey gathered insights from 1409 participants, providing a comprehensive snapshot of the current state of enterprise Java.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Key findings from the 2024 survey include:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;Spring/Spring Boot remains the leading Java framework for cloud native applications, while Jakarta EE and MicroProfile have seen notable growth.&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;Jakarta EE adoption continues to rise, with 32% of respondents having migrated (up from 26% in 2023).&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;Jakarta EE 10 adoption has doubled to 34%, indicating a strong shift towards newer versions, while usage of Java EE 8 has declined from 46% to 40%.&lt;/li&gt;
+&lt;li dir="ltr"&gt;Interest in aligning Jakarta EE with Java SE innovations, such as Records and Virtual Threads, has also grown (37%, up from 30% in 2023).&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;The top five priorities for the Jakarta EE community include better support for Kubernetes, microservices, adapting to Java SE innovations, support for testing improvements, and faster innovation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;The Jakarta EE community welcomes contributions and participation from individuals and organisations alike. With the Jakarta EE Working Group hard at work on the upcoming Jakarta EE 11 release, which includes innovative cloud native features, there’s no better time to join this vibrant community and make your voice heard.&amp;nbsp; Get involved and connect with the global community by visiting us&amp;nbsp;&lt;a href="https://jakarta.ee/connect/" rel="nofollow"&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;For organisations that rely on enterprise Java, the Jakarta EE Working Group offers a unique opportunity to shape its future. Membership not only supports the community’s sustainability but also provides access to marketing initiatives and direct engagement with key contributors. Explore the benefits of membership&amp;nbsp;&lt;a href="https://jakarta.ee/membership/" rel="nofollow"&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Quotes from Jakarta EE Working Group Member Organizations&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;IBM&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Jakarta EE continues its drive to deliver innovation developers can use as shown by its widespread and increasing adoption,” said Ian Robinson, CTO IBM Application Runtimes. “With a combination of standard APIs and operational efficiency in our Liberty runtime and tooling, IBM is bringing complete Jakarta EE compatibility and production support, along with MicroProfile, making it ideal for cloud native applications.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Microsoft&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“We are glad to see the Java ecosystem continue to remain vibrant, including both Spring and Jakarta EE,” said Scott Hunter, Microsoft VP of Product, Azure Developer Experience. “We are especially proud to play a key role in the upcoming Jakarta EE 11 release alongside our partners Oracle, IBM, Red Hat, and Broadcom.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Oracle&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“The survey shows growing adoption of and interest in Jakarta EE and MicroProfile technologies, along with the latest Java versions, in microservices and hybrid architectures, across multiple clouds, with AI integration,” said Tom Snyder, VP of Engineering, Oracle Enterprise Cloud Native Java. “Oracle’s investments in WebLogic Server, Helidon, Coherence, Java and AI are aligned with these trends. We’re excited to be working with the community to build future generations of enterprise Java.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Payara&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Payara strongly believes that Jakarta EE offers an ideal platform to support the development of future-proof, forward-looking applications, and the 2024 Jakarta EE Developer Survey Report reaffirms this vision,” said Steve Millidge, CEO and Founder at Payara Services. “The growing adoption of Jakarta EE, especially with the upcoming Jakarta EE 11 and the creation of the Jakarta EE Future Directions Interest Group, underscores its ability to evolve and meet the ever-changing demands of modern enterprise environments. Payara is committed to supporting Jakarta EE’s evolution, as we see its flexibility, standardisation, and vendor-neutrality as key enablers for developers building the cloud native, scalable, and interoperable applications of the future.”&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 420 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 385 members. Visit us at this year’s&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt;###&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert/Marita Bäumer&lt;/p&gt;
+&lt;p dir="ltr"&gt;Sendlinger Straße 42A&lt;/p&gt;
+&lt;p dir="ltr"&gt;80331 Munich&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 -70/ -62&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;514 Media Ltd&amp;nbsp;for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;&lt;u&gt;benoit@514-media.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;M:&amp;nbsp;+44 (0) 7891 920 370&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Image&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;img loading="lazy" src="https://newsroom.eclipse.org/sites/default/files/news/2024%20Jakarta%20EE%20Developer%20Survey%20Report.png" width="1600" height="900" alt class="img-responsive"&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/jakarta-ee" hreflang="en"&gt;Jakarta EE&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/jakarta-ee-11" hreflang="en"&gt;jakarta ee 11&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/enterprise-java" hreflang="en"&gt;enterprise java&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/java-ee" hreflang="en"&gt;java ee&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 15 Oct 2024 09:45:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">41025 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>The Eclipse Foundation Launches ThreadX Alliance to Champion the Growth and Sustainability of the World’s First and Only Safety-Certified Open Source RTOS </title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-launches-threadx-alliance-champion-growth-and-sustainability</link>
+  <description>
+&lt;span&gt;The Eclipse Foundation Launches ThreadX Alliance to Champion the Growth and Sustainability of the World’s First and Only Safety-Certified Open Source RTOS &lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-10-08T05:45:00-04:00" title="Tuesday, October 8, 2024 - 05:45"&gt;Tue, 2024-10-08 05:45&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS&amp;nbsp; – 8 October 2024 –&amp;nbsp;&lt;/strong&gt;The Eclipse Foundation, one of the world’s largest open source software foundations, has announced the launch of the ThreadX Alliance, a new initiative dedicated to ensuring the continued growth and sustainability of the Eclipse ThreadX real-time operating system (RTOS) and its dynamic ecosystem. ThreadX, the world’s first and only safety-certified open source RTOS, powers billions of devices across a broad range of industries, including automotive, medical, aerospace, home appliances, and industrial controls.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;With ThreadX already a proven solution trusted by companies worldwide, the ThreadX Alliance ensures the ongoing sustainability of its robust code base, platform enhancements, and crucial safety certification efforts. By joining the alliance, organisations can access exclusive resources while contributing to the evolution of the next generation of embedded systems.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“ThreadX is the only open source safety-certified RTOS on the market today, powering over 12 billion devices and trusted in a vast array of embedded applications,” said Mike Milinkovich, executive director of the Eclipse Foundation. “The ThreadX Alliance is an important step in ensuring the platform’s future, allowing companies to actively support its sustainability while gaining valuable tools and resources to streamline their development efforts, reduce costs, and bring products to market.”&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Key benefits of joining the ThreadX Alliance include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Exclusive Early Access to the ThreadX Marketplace:&amp;nbsp;&lt;/strong&gt;&amp;nbsp;Be first in line to access the future ThreadX marketplace, including pre-sales and pre-development support from leading service providers.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Access to Safety Manuals:&amp;nbsp; &lt;/strong&gt;Unlock read-only, non-commercial access to essential safety manuals, offering critical insights to enhance your development processes.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Licensing Opportunities for Safety Certifications:&amp;nbsp;&lt;/strong&gt;Gain access to licensing agreements for ThreadX safety artefacts (additional fees apply), accelerating your products’ functional safety certifications.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Exclusive Marketing and Branding Opportunities:&lt;/strong&gt; Proudly display the ThreadX Alliance participant logo to showcase your commitment to the growth and sustainability of the industry’s only safety-certified open source RTOS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;The launch of the ThreadX Alliance represents a significant leap forward in supporting the open source embedded systems ecosystem, especially in industries where safety and reliability are critical. Companies looking to take part in this influential community are invited to visit&amp;nbsp;&lt;a href="http://threadxalliance.org" rel="nofollow"&gt;&lt;u&gt;threadxalliance.org&lt;/u&gt;&lt;/a&gt; to learn more about how to contribute to and benefit from the program.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About Eclipse ThreadX&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Eclipse ThreadX (formerly Azure RTOS) is the world’s first and only safety-certified open source real-time operating system (RTOS), and has been trusted by industries for over two decades. Deployed in over 12 billion devices since its launch in 1997, ThreadX offers an MIT-licensed, robust, modular platform that includes advanced subcomponents for graphical interfaces (GUIX), networking (NetX Duo), file storage (FileX), and USB connectivity (USBX). To learn more about how ThreadX powers next-generation embedded systems, visit&amp;nbsp;&lt;a href="http://threadx.io" rel="nofollow"&gt;&lt;u&gt;threadx.io&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 420 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 385 members. Visit us at this year’s&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt;###&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert/Marita Bäumer&lt;/p&gt;
+&lt;p dir="ltr"&gt;Sendlinger Straße 42A&lt;/p&gt;
+&lt;p dir="ltr"&gt;80331 Munich&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 -70/ -62&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;514 Media Ltd&amp;nbsp;(France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;&lt;u&gt;benoit@514-media.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;M:&amp;nbsp;+44 (0) 7891 920 370&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications (Global Press Contact)&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Image&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;img loading="lazy" src="https://newsroom.eclipse.org/sites/default/files/news/threadx%20alliance%20press%20release%20graphic.png" width="1152" height="576" alt class="img-responsive"&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 08 Oct 2024 09:45:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">41004 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>OpenHW Group to Join the Eclipse Foundation, Expanding Open Source RISC-V Innovation</title>
+  <link>https://newsroom.eclipse.org/news/announcements/openhw-group-join-eclipse-foundation-expanding-open-source-risc-v-innovation</link>
+  <description>
+&lt;span&gt;OpenHW Group to Join the Eclipse Foundation, Expanding Open Source RISC-V Innovation&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-10-01T07:00:00-04:00" title="Tuesday, October 1, 2024 - 07:00"&gt;Tue, 2024-10-01 07:00&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS and OTTAWA – 1 October 2024 –&amp;nbsp;&lt;/strong&gt;In a joint announcement today, the Eclipse Foundation, one of the world's leading open source software foundations, and OpenHW Group, a global leader in developing open source RISC-V processor cores and IP, revealed that OpenHW will become part of the Eclipse Foundation. This strategic collaboration, set to be finalised by December 2024, will accelerate the development of open source hardware technologies, offering a robust, open alternative to proprietary architectures. This move will benefit a wide array of industries, including artificial intelligence (AI), cloud computing, IoT, automotive, and high-performance computing (HPC).&lt;/p&gt;
+&lt;p dir="ltr"&gt;Founded in 2019, OpenHW Group immediately established a strategic partnership with the Eclipse Foundation, drawing on Eclipse’s expertise to deliver key services, including development processes, IP management, IT infrastructure, and back-office operations. This long-standing collaboration has laid the foundation for a seamless integration, strengthening OpenHW’s mission to provide verified, industrial grade, open source cores that are ready for commercial-grade SoC production.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;As part of this transition, OpenHW Group will be renamed the OpenHW Foundation, bringing its extensive network of more than 100 members and partners into the Eclipse Foundation’s open source ecosystem, including prominent organisations such as Barcelona Supercomputing Center, CEA, Red Hat, Silicon Labs, and Thales. By joining forces with the Eclipse Foundation, OpenHW reinforces its commitment to delivering industry-leading open hardware solutions.&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Joining the Eclipse Foundation is a transformative moment for OpenHW, solidifying our commitment to delivering trusted open hardware solutions to the global market,” said Florian Wohlrab, CEO of OpenHW Group. “This partnership provides the long-term stability, infrastructure, and open source expertise we need to continue driving innovation in RISC-V hardware, benefiting both our members and the broader industry.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;Mike Milinkovich, executive director of the Eclipse Foundation, added, “Throughout its five-year history, OpenHW has played a pivotal role in pushing the boundaries of open source hardware.&amp;nbsp; Together, we’re now much better positioned to advance cutting-edge technologies in areas like AI, software-defined vehicles, and the Industrial IoT, further strengthening the role of open source in these critical industries.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Bolstering Open Source Hardware Innovation&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;By joining the Eclipse Foundation, OpenHW can fully focus on further developing RISC-V hardware, an open, flexible, and cost-effective architecture that enables faster innovation while removing traditional licensing barriers. The open source nature of RISC-V makes it an ideal choice for enterprises looking to disrupt markets, especially in sectors such as AI and automotive, where flexibility and scalability are critical.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Under the governance of the Eclipse Foundation, the OpenHW Foundation will continue to lead and expand on critical projects and initiatives, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;CVA6:&amp;nbsp;&lt;/strong&gt;64/32-bit cores designed for high-performance applications like&amp;nbsp; Linux-based systems. These configurable cores offer an industrial-grade platform for a wide range of applications, including those with advanced safety requirements.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;CVE4:&lt;/strong&gt; 32-bit embedded-class cores, optimised for IoT, edge computing, and consumer electronics, powering devices like washing machines, robots, drones, and game controllers. Typically, these cores run real-time operating systems such as&amp;nbsp;&lt;a href="https://threadx.io/" rel="nofollow"&gt;&lt;u&gt;Eclipse ThreadX&lt;/u&gt;&lt;/a&gt; or operate in bare-metal environments.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;CVE2:&amp;nbsp;&lt;/strong&gt;Small, power-efficient processors, perfect for deeply embedded control applications, replacing state-machine logic in embedded devices.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;CVA6 Platform:&amp;nbsp;&lt;/strong&gt;A vendor-neutral software validation platform supporting a variety of FPGA configurations, including cloud-based solutions like AWS ES2 FPGA instances.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Software Initiatives:&amp;nbsp;&lt;/strong&gt;Ongoing efforts to add extensions, improve compilers, and enhance emulators to ensure robust support for our cores across the latest technologies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Join OpenHW and Shape the Future of Open Processor Technologies&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;As part of the Eclipse Foundation, the OpenHW Foundation is uniquely positioned to advance its mission of supporting industries ranging from embedded systems to supercomputing. By delivering high-quality, verified RISC-V cores, OpenHW meets the rigorous demands of modern applications, ensuring reliability and innovation across diverse sectors. This transition brings exciting opportunities for both existing and new stakeholders to get involved and help shape the future of open source hardware. We invite members, partners, and other stakeholders to actively engage in advancing RISC-V core development, emulation kits, and software initiatives.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Whether you're a developer, researcher, or an organisation, joining the OpenHW Foundation gives you direct access to a vibrant, collaborative community that drives RISC-V-based innovation. Explore opportunities to contribute, influence key initiatives, and make your mark in the open hardware community. New members are welcome to join through the Eclipse Foundation. Visit the&amp;nbsp;&lt;a href="https://www.eclipse.org/collaborations/" rel="nofollow"&gt;&lt;u&gt;Eclipse Membership page&lt;/u&gt;&lt;/a&gt; to learn how to become part of this exciting new chapter.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Member Quotes&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.bsc.es/" rel="nofollow"&gt;&lt;strong&gt;&lt;u&gt;Barcelona Supercomputing Center (BSC)&amp;nbsp;&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;"At BSC, our mission is to push the boundaries of computer architecture and supercomputing. By working closely with OpenHW, we are contributing to the development of high-performance, open source RISC-V cores that are critical to the future of high-performance computing. We are confident OpenHW joining the Eclipse Foundation will only further enhance this collaboration, offering greater opportunities for impact across the global open hardware ecosystem.” – Miquel&amp;nbsp;Moretó, High Performance Domain-Specific Architectures Group Leader at BSC.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://bluespec.com/" rel="nofollow"&gt;&lt;strong&gt;&lt;u&gt;BlueSpec&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“The RISC-V community has made a tremendous impact, with millions of cores already being shipped. We're excited to see OpenHW Group join the Eclipse Foundation and view it as a significant milestone that will drive innovation across the broader ecosystem. At Bluespec, we recognize the importance of fostering a healthy, open source environment and this collaboration ensures continued development of high-quality, industrial-grade open source RISC-V cores." –&amp;nbsp; Charlie Hauck, CEO of Bluespec.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.leti-cea.com/cea-tech/leti/english" rel="nofollow"&gt;&lt;strong&gt;&lt;u&gt;CEA&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“CEA has long been at the forefront of research and development in sectors such as low-carbon energy and microelectronics with its Leti institute. Our collaboration with OpenHW enables us to&amp;nbsp; apply our advanced research to open source processor technology, creating new possibilities for commercial and industrial applications. As a long-time existing Strategic Member of the Eclipse Foundation, we are confident that this transition marks an exciting new chapter in our work with OpenHW, ensuring that we continue to drive meaningful innovation in both open hardware and critical global industries.” – Fabien Clermidy, Head of System Division, CEA-Leti.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.silabs.com/" rel="nofollow"&gt;&lt;strong&gt;&lt;u&gt;Silicon Labs&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Silicon Labs is proud to support the OpenHW Foundation's mission of driving innovation in open source hardware. As a leader in radio modules and wireless technologies, we recognize the importance of robust, verified processor cores that meet the demands of modern IoT applications. The Eclipse Foundation's strong governance and OpenHW’s RISC-V expertise create a powerful platform for collaboration and growth.” – Daniel Cooley, CTO and SVP at Silicon Labs&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.thalesgroup.com/en" rel="nofollow"&gt;&lt;strong&gt;&lt;u&gt;Thales&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“At Thales, we are deeply committed to advancing cutting-edge technologies, and our collaboration with OpenHW aligns perfectly with this mission. Through initiatives like the Europe Tristan project, we are leveraging open source RISC-V processor cores to deliver innovative, secure solutions for the aerospace and defence sectors. The transition to the Eclipse Foundation strengthens this commitment and positions the OpenHW community to drive further breakthroughs in open hardware.” – Daniel Glazman, CTO Software (KTD), Thales Group.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 420 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 360 members. Visit us at this year’s&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About OpenHW Group&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;OpenHW Group is a global non-profit organisation dedicated to developing, verifying, and delivering high quality, open source RISC-V processor cores and related IP for commercial and industrial applications. With its extensive network of more than 100 members and partners, OpenHW is driving the advancement of open source processor technology across cloud, mobile, IoT, AI, automotive, HPC, and other domains. Through its CORE-V Task Group, the organisation ensures industry-aligned, high-quality development, supporting cutting-edge SoC production worldwide. OpenHW is supported by leading innovators such as Barcelona Supercomputer Center (BSC), CEA, Red Hat, Silicon Labs, and Thales.&amp;nbsp; To learn more, visit&amp;nbsp;&lt;a href="https://www.openhwgroup.org/" rel="nofollow"&gt;&lt;u&gt;openhwgroup.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt;###&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert/Marita Bäumer&lt;/p&gt;
+&lt;p dir="ltr"&gt;Sendlinger Straße 42A&lt;/p&gt;
+&lt;p dir="ltr"&gt;80331 Munich&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 -70/ -62&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;514 Media Ltd&amp;nbsp;(France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;&lt;u&gt;benoit@514-media.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;M:&amp;nbsp;+44 (0) 7891 920 370&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications (Global Press Contact)&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Image&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;img loading="lazy" src="https://newsroom.eclipse.org/sites/default/files/news/OpenHW%20Transition%20pr.png" width="1024" height="512" alt class="img-responsive"&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 01 Oct 2024 11:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40974 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>The Eclipse Foundation and Deutsches Institut für Normung (DIN) to Collaborate in Advancing Standards for Open Source Software Development </title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-and-deutsches-institut-f%C3%BCr-normung-din-collaborate-advancing</link>
+  <description>
+&lt;span&gt;The Eclipse Foundation and Deutsches Institut für Normung (DIN) to Collaborate in Advancing Standards for Open Source Software Development &lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-09-30T06:00:00-04:00" title="Monday, September 30, 2024 - 06:00"&gt;Mon, 2024-09-30 06:00&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS and BERLIN – 30 September 2024 –&amp;nbsp;&lt;/strong&gt;The Eclipse Foundation, one of the world’s largest open source foundations, and Deutsches Institut für Normung (DIN), the German Institute for Standardization, have announced a Memorandum of Understanding (MOU) to collaborate on&amp;nbsp; bridging the gaps between classical standardisation and open source software development in Germany and across the EU. This agreement represents one of the first collaborations between industrial standards bodies and open source software foundations, with a shared goal of empowering industry and business to confidently leverage and adopt open source technologies.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Open source software has historically been the domain of enterprise software applications. However, in recent years, the open source model has been applied to large-scale deployments across various industries, including manufacturing, automotive, robotics, and more. These sectors heavily rely on industrial standards to ensure safe production,” said Mike Milinkovich, Executive Director of the Eclipse Foundation. “As the leading open source foundation in the EU, particularly for many technologies focused on these industries, it makes perfect sense to work closely with DIN, the EU’s leading authority in building industrial standards."&lt;/p&gt;
+&lt;p dir="ltr"&gt;As Germany’s national organisation for standardisation and an ISO member, DIN is one of the world’s foremost authorities in creating industrial standards. Currently, there are more than thirty thousand DIN Standards, covering nearly every field of technology.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The MoU outlines a cooperative framework for promoting mutual interests in advancing standards for open source software. Key points include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Exchange of Knowledge:&lt;/strong&gt; Sharing relevant information on standards and open source development, governance, and best practices.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Research and Innovation Activities:&lt;/strong&gt; Collaborating on projects, workshops, and publications related to standardisation and open source implementation.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Promotion:&lt;/strong&gt; Emphasising the importance of standards and open source development for fostering innovation, interoperability, and sustainability.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Open Source Development:&lt;/strong&gt; Facilitating the use of DIN's services and infrastructure for Eclipse projects and engaging in joint initiatives.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Standardisation Contribution:&lt;/strong&gt; Providing support and guidance for projects related to standardisation, including the Cyber Resilience Act.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;The Cyber Resilience Act (CRA) is one of the most significant regulatory developments in the area of cyber security within the European Union. This regulation aims to increase the security of products and services with digital components in order to significantly improve resilience to cyber threats. With the CRA (as well as the AI Act and the Data Act), the IT sector is now being regulated more strictly than before. These regulations define the basic requirements. The technical specification is made by harmonised standards, which are jointly developed by experts from business, science, the public sector, and civil society at the European standardisation organisations CEN and CENELEC.&lt;/p&gt;
+&lt;p dir="ltr"&gt;The CRA now calls for the definition of specific protection goals for software and software systems. In the latest draft of the EU standardisation mandate, 41 areas were identified for this purpose. Participation and expertise from the open source sector is essential for the development of harmonised standards in the context of the CRA. As a strong partner, DIN will provide guidance and support, working together with the Eclipse Foundation to best reflect the perspective of the open source sector, a group strongly affected by the CRA.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;“At DIN, we are seeing a significant rise in software applications shaping industrial processes and influencing technology across numerous industries,” said Christoph Winterhalter,&amp;nbsp; CEO of DIN and Vice President Policy of ISO. “Today’s agreement marks an important first step in aligning the EU’s rapidly growing open source innovations with standardisation practices that will ensure broad industry adoption. Standardisation and open source can learn a lot from each other and, by exploiting synergies, ensure even greater trust and better interoperability in the future."&lt;/p&gt;
+&lt;p dir="ltr"&gt;Learn more at the&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt;, a transformative open source developer conference from 22-24 October 2024 in Mainz, Germany. Visit the OCX website for details on sponsorship and participation.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 415 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 360 members. Visit us at this year’s&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About DIN&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;DIN, the German Institute for Standardisation, is the independent platform for standardisation in Germany and worldwide. Together with industry, scientific institutions, public authorities and civil society as a whole, DIN plays a major role in identifying future areas for standardization. By helping to shape the green and digital transformation, DIN makes an important contribution towards solving current challenges and enables new technologies, products and processes to establish themselves on the market and in society. More than 37,500 experts from industry, research, consumer protection and the public sector bring their expertise to work on standardization projects managed by DIN. The results of these efforts are market-oriented standards and specifications that promote global trade, encouraging rationalization, quality assurance and environmental protection as well as improving security and communication. For more information, go to&amp;nbsp;&lt;a href="http://www.din.de" rel="nofollow"&gt;www.din.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt;###&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert/Julia Rauch&lt;/p&gt;
+&lt;p dir="ltr"&gt;Sendlinger Straße 42A&lt;/p&gt;
+&lt;p dir="ltr"&gt;80331 Munich&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 -70/-43&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;514 Media Ltd&amp;nbsp;for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;&lt;u&gt;benoit@514-media.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;M:&amp;nbsp;+44 (0) 7891 920 370&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Image&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;img loading="lazy" src="https://newsroom.eclipse.org/sites/default/files/news/PR%20-%20DIN%20MOU.png" width="1024" height="512" alt class="img-responsive"&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Mon, 30 Sep 2024 10:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40989 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Introducing Our Keynote Speakers at OCX 2024</title>
+  <link>https://newsroom.eclipse.org/news/announcements/introducing-our-keynote-speakers-ocx-2024</link>
+  <description>
+&lt;span&gt;Introducing Our Keynote Speakers at OCX 2024&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Natalia Loungou&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-09-25T05:08:17-04:00" title="Wednesday, September 25, 2024 - 05:08"&gt;Wed, 2024-09-25 05:08&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;As we approach the &lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/summary?utm_campaign=Member%20Newsletter&amp;amp;utm_source=hs_email&amp;amp;utm_medium=email&amp;amp;_hsenc=p2ANqtz--uhwfBTBGtWvf4IGrM24mxD-hisarqDOYEr5DkRSSysSjlGLT3jEW2gVyRpdh6BUI0Qqwi" rel="nofollow"&gt;Open Community Experience&lt;/a&gt; (OCX), scheduled to take place from 22-24 October in Mainz, Germany, my anticipation and excitement continues to build. This event marks a new chapter for our community, with a fresh conference format that I believe will bring even more value to all of us.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://blogs.eclipse.org/post/mike-milinkovich/introducing-our-keynote-speakers-ocx-2024"&gt;https://blogs.eclipse.org/post/mike-milinkovich/introducing-our-keynote-speaker…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/community" hreflang="en"&gt;community&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/conference" hreflang="en"&gt;conference&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/open-source" hreflang="en"&gt;open source&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/automotive" hreflang="en"&gt;automotive&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/java" hreflang="en"&gt;Java&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/eclipsecon" hreflang="en"&gt;EclipseCon&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Wed, 25 Sep 2024 09:08:17 +0000</pubDate>
+    <dc:creator>Natalia Loungou</dc:creator>
+    <guid isPermaLink="false">40944 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>The Eclipse Foundation Launches the Open Regulatory Compliance Working Group to Help Open Source Participants Navigate Global Regulations</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-launches-open-regulatory-compliance-working-group-help-open</link>
+  <description>
+&lt;span&gt;The Eclipse Foundation Launches the Open Regulatory Compliance Working Group to Help Open Source Participants Navigate Global Regulations&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-09-24T06:45:00-04:00" title="Tuesday, September 24, 2024 - 06:45"&gt;Tue, 2024-09-24 06:45&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS – 24 September 2024 –&amp;nbsp;&lt;/strong&gt;The Eclipse Foundation, one of the world’s largest open source foundations, has announced the formation of the Open Regulatory Compliance Working Group (&lt;a href="https://orcwg.org/" rel="nofollow"&gt;&lt;u&gt;ORC WG&lt;/u&gt;&lt;/a&gt;). This pioneering initiative aims to support participants across the global open source community—including developers, enterprises, industries, and open source foundations—in navigating and adhering to evolving regulatory frameworks. Additionally, the working group will work closely with governments and regulatory bodies to enhance their understanding of the unique open source development model. Supported by prominent open source foundations and global technology leaders, this collaborative effort is dedicated to advancing the open source model in an increasingly regulated software supply chain.&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Given the impact of software technology on the global economy, it is unsurprising that governments worldwide are enacting new regulations to safeguard privacy, security, and accessibility,” said Mike Milinkovich, executive director of the Eclipse Foundation.“The Open Regulatory Compliance Working Group was created to bridge the gap between regulatory authorities and the open source ecosystem, ensuring organisations and developers can leverage open source technologies while remaining compliant with evolving global regulations.”&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The newly established working group is committed to formalising industry best practices and offering essential resources to help organisations navigate regulatory requirements across multiple jurisdictions. Additionally, it aims to assist government entities in providing greater legal certainty to the open source ecosystem and software supply chain.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Through collaboration and guidance, the group seeks to elevate software quality and security in open source projects. Backed by the Eclipse Foundation's strong commitment to open source supply chain security, the working group leverages a team of expert security professionals and rigorous processes. As a CVE Numbering Authority, the Eclipse Foundation plays a key role in effective vulnerability management, ensuring that security remains a top priority for all contributors, projects, and users within the ecosystem.&lt;/p&gt;
+&lt;p dir="ltr"&gt;While the Open Regulatory Compliance Working Group is chartered to address compliance with open source-impacting requirements in general, its immediate focus is the European Cyber Resilience Act (CRA). With the CRA rapidly approaching implementation, the working group’s immediate efforts are centred on ensuring compliance with this new legislation.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Current Initiatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Process Specifications:&amp;nbsp;&lt;/strong&gt;Development of cybersecurity process specifications and best practices aligned with the requirements of the CRA.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Collaboration with European Authorities:&lt;/strong&gt; The working group actively engages with the various European institutions to understand legislative timelines and produce timely compliance materials, with a primary focus on the CRA.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Formalising Standards Participation:&lt;/strong&gt; Having secured formal liaison status with the European Committee for Standardization (CEN) and the European Committee for Electrotechnical Standardization (CENELEC), the working group is actively pursuing working relationships with other European and National Standards Organizations to expand its contribution on regulatory standards.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Community and Industry Education:&lt;/strong&gt; A series of webinars with European Commission staff aims to keep the open source community informed about the EU’s legislative process. Recordings and materials, including sessions like "How to Read the CRA" led by Enzo Ribagnac, Associate Director for European Policy at Eclipse Foundation, are&amp;nbsp;&lt;a href="https://www.youtube.com/playlist?list=PLy7t4z5SYNaTRa8iZTcLbal32frbLCwYq" rel="nofollow"&gt;&lt;u&gt;available here.&lt;/u&gt;&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Centralised Information Hub:&lt;/strong&gt; The working group is developing a central resource to house all relevant CRA-related content, including webinars, glossaries, flowcharts, and FAQs to inform EU guidelines.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Collaborative Engagement:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The working group has garnered significant support from a broad range of open source organisations and private companies. As of the date of this announcement, participant organisations include: Apache Software Foundation (ASF), Blender Foundation, Robert Bosch GmbH, CodeDay, The Document Foundation, FreeBSD Foundation, iJUG, Lunatech, Matrix.org Foundation, Mercedes-Benz Tech Innovation GmbH, Nokia, NLnet Labs, Obeo, Open Elements, OpenForum Europe, OpenInfra Foundation, Open Source Initiative (OSI), Open Source Robotics Foundation (OSRF), OWASP, Payara Services, The PHP Foundation, Python Software Foundation, Rust Foundation, SCANOSS, Siemens, and Software Heritage.&lt;/p&gt;
+&lt;p dir="ltr"&gt;For more information on joining the Open Regulatory Compliance Working Group,&amp;nbsp;&lt;a href="https://orcwg.org/participate/" rel="nofollow"&gt;&lt;u&gt;visit the participation page&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Member Quotes:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://apache.org/" rel="nofollow"&gt;&lt;u&gt;Apache Software Foundation (ASF)&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“The CRA will impact open source users and producers alike. Legislators will benefit from the brain trust of open source organisations that Eclipse has brought together to ensure that the legislation is crafted in a way that protects all parties. The Apache Software Foundation is committed to safeguarding our digital future by addressing the multifaceted challenges of cybersecurity in the open source ecosystem, and cooperating with and implementing the CRA.” – David Nalley, President of the Apache Software Foundation&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="http://www.bosch.com/" rel="nofollow"&gt;&lt;u&gt;Bosch&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Bosch supports the EU Cyber Resilience Act (CRA) as a harmonised cybersecurity framework, but also recognizes the crucial role of open-source software (OSS) in its supply chain. Thus, it is vital to regulate the use of OSS in a reasonable way. This requires new processes for OSS due diligence, developed through close collaboration between OSS stewards and manufacturers. We welcome the Eclipse Foundation's initiative to provide software security specifications aligned with open-source practices. We are convinced that by bringing together industry leaders, SMEs, researchers, and OSS experts, we will be able to develop processes that meet regulations while also supporting open development. We also expect these processes to serve as blueprints for the upcoming EU Data and AI Act and future regulations.” – Dr. Andreas Nauerz - Executive Vice President at Robert Bosch GmbH&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.documentfoundation.org/" rel="nofollow"&gt;&lt;u&gt;The Document Foundation&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“The Document Foundation participates in the Open Regulatory Compliance Working Group because it believes that the development of common best practices for the security of open source software is an important factor in the recognition of FOSS as a key element of the global information technology infrastructure and compliance with laws such as the Cyber Resilience Act in the EU.” - Italo Vignoli, Director at The Document Foundation&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="http://www.freebsdfoundation.org" rel="nofollow"&gt;&lt;u&gt;FreeBSD Foundation&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The FreeBSD Foundation is proud to participate in the Open Regulatory Compliance Working Group. This initiative is key to helping developers and organisations continue innovating while navigating complex global regulations like the European Cyber Resilience Act. We believe collaboration within the open source community is essential to overcoming these challenges, and we’re excited to contribute to this important effort.” – Deb Goodkin, Executive Director of the FreeBSD Foundation&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.mercedes-benz-techinnovation.com/en" rel="nofollow"&gt;&lt;u&gt;Mercedes-Benz&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“We support the mission of the Open Regulatory Compliance Working Group to help shape the future of secure software development in Europe, together with the European Commission, Open Source foundations and other industry players.” – Jochen Strenkert, Chief Engineer MB.OS&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.nokia.com/" rel="nofollow"&gt;&lt;u&gt;Nokia&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Open source communities and the software they produce are ever more important for the whole industry. This is exactly why for Nokia the wellbeing and sustainability of the open source communities is paramount. The European Union Cyber Resilience Act (CRA) brings potential new requirements to the open source communities. Nokia strongly believes that the targets of the EU CRA and the best outcome can only be achieved by the open source community having a strong voice in this process. We believe that the Open Regulatory Compliance Working Group is the way to achieve this. Therefore, Nokia is honoured to join the ORC WG. We are looking forward to working as part of the community to ensure getting the best possible outcome of the EU CRA for everybody.” – Jonne Soininen, Head of Open Source Initiatives at Nokia&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.obeosoft.com/en/" rel="nofollow"&gt;&lt;u&gt;Obeo&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;"As an SME with open-source in its DNA and a strategic member of the Eclipse Foundation, Obeo is thrilled to join the Open Regulatory Compliance Working Group. Collaborating with major industry players in critical and strategic sectors, we believe that open innovation is essential for navigating the evolving regulatory landscape. We stress the importance of new regulations recognizing the unique nature of this model to ensure that communities continue to thrive while complying with governmental requirements." – Cédric Brun, President of Obeo&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://opensource.org/" rel="nofollow"&gt;&lt;u&gt;The Open Source Initiative (OSI)&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Compliance with the Cyber Resilience Act and other upcoming legislation poses a new challenge for the Open Source community. The Open Regulatory Compliance Working Group gives us an opportunity to find solutions together, and to work with lawmakers and regulatory bodies to help them better understand Open Source. We very much look forward to contributing to the working group.” – Stefano Maffulli, Executive Director at OSI&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.openrobotics.org/" rel="nofollow"&gt;&lt;u&gt;Open Source Robotics Foundation (OSRF)&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“The OSRF is pleased to be involved in the Open Regulatory Compliance Working Group. As well as finding and creating best practices and methodologies for open-source projects to follow when complying with the EU’s new Cyber Resilience Act, the outputs of this working group will enable open-source projects, including in robotics, to also comply with other existing and future regulations that create a safer and more secure world for all. We are honoured to be working with other open-source foundations on this critical task.” – Geoff Biggs, CTO at the Open Source Robotics Foundation&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.payara.fish/" rel="nofollow"&gt;&lt;u&gt;Payara Services Ltd&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“At Payara, we are proud to be an active participant in the Open Regulatory Compliance Working Group (ORC WG). By collaborating with other ORC WG members, we will contribute to the development of best practices, guidelines, and standards that will help the open-source community meet evolving regulatory requirements, starting with the European Cyber Resilience Act (CRA). We believe that the implementation of these regulations is essential for ensuring safer software and robust protection for users and enterprises worldwide. Our active participation in this working group underscores our dedication to keeping open-source solutions a trusted choice for companies globally.” – Steve Millidge, Founder at Payara Services Ltd&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://thephp.foundation/" rel="nofollow"&gt;&lt;u&gt;The PHP Foundation&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“We're delighted to be joining the Open Regulatory Compliance Working Group. With new regulations such as the Cyber Resilience Act (CRA) on the horizon, it's great to be working with other Open Source foundations. We'll share what we know about building secure software and learn from one another. Our goal is simple: to help make these new regulations work for everyone, without stifling the creativity that makes Open Source so great.” – Roman Pronskiy, Executive Director at the PHP Foundation&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.python.org/psf-landing/" rel="nofollow"&gt;&lt;u&gt;Python Software Foundation&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The safety and security of Python is important to all our users for different reasons, but the recent Cyber Resilience Act (CRA) has created a sharp incentive to work on a collective understanding of best practices for all stakeholders. We appreciate the opportunity to share and collaborate on these topics with our open source peers via the Open Regulatory Compliance Working Group. -- Deb Nicholson, Executive Director at Python Software Foundation&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://foundation.rust-lang.org/" rel="nofollow"&gt;&lt;u&gt;Rust Foundation&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“The Rust Foundation is delighted to join the Open Regulatory Compliance Working Group. We look forward to working collaboratively with key Open Source and Industry stakeholders to ensure that emerging and evolving regulation is high quality, accommodating of the unique and valuable features of Open Source, and fit for purpose.“ – Rebecca Rumbul, Executive Director &amp;amp; CEO, Rust Foundation&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.scanoss.com/" rel="nofollow"&gt;&lt;u&gt;SCANOSS&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;"Every day, we see the growing need for regulatory tools and robust supply chain security. SCANOSS is dedicated to providing the most comprehensive Open Source detection and SBOM solution, helping organisations mitigate risk and comply with regulations like the CRA. We are honoured to join the Eclipse Foundation in leading this effort to ensure the security and resilience of the open source software supply chain." – Alan Facey, CEO at SCANOSS&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.siemens.com/global/en.html" rel="nofollow"&gt;&lt;u&gt;Siemens&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;"Open source technologies are embedded in and vital to many of our solutions. Through our involvement in the Open Regulatory Compliance Working Group, we actively shape standards to ensure compliance with evolving regulations." – Oliver Fendt, Senior Manager Open Source at Siemens&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://www.softwareheritage.org/?lang=en" rel="nofollow"&gt;&lt;u&gt;Software Heritage&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;"The mission of Software Heritage, launched by&amp;nbsp;&lt;a href="https://www.inria.fr/en" rel="nofollow"&gt;&lt;u&gt;Inria&lt;/u&gt;&lt;/a&gt; and in partnership with&amp;nbsp;&lt;a href="https://www.unesco.org/en" rel="nofollow"&gt;&lt;u&gt;UNESCO&lt;/u&gt;&lt;/a&gt;, is to collect, preserve and share all publicly available software source code. With over 50 billion software artefacts secured through the Software Hash Identifier (SWHID) specification, we guarantee long-term availability, ensure integrity, and enable traceability across the entire software ecosystem. As a foundational non profit open infrastructure for software integrity and compliance, we are excited to join the Open Regulatory Compliance Working Group to support the evolving regulatory landscape and ensure the open source ecosystem thrives." – Roberto Di Cosmo, co-founder and director, Software Heritage&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 415 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 360 members. Visit us at this year’s&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt;###&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert/Marita Bäumer&lt;/p&gt;
+&lt;p dir="ltr"&gt;Sendlinger Straße 42A&lt;/p&gt;
+&lt;p dir="ltr"&gt;80331 Munich&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 -70/ -62&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;514 Media Ltd&amp;nbsp;for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;&lt;u&gt;benoit@514-media.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;M:&amp;nbsp;+44 (0) 7891 920 370&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Image&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;img loading="lazy" src="https://newsroom.eclipse.org/sites/default/files/news/3.png" width="1600" height="900" alt class="img-responsive"&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/cyber-resilience-act" hreflang="en"&gt;cyber resilience act&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/cybersecurity" hreflang="en"&gt;cybersecurity&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/open-source" hreflang="en"&gt;open source&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/europe" hreflang="en"&gt;europe&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 24 Sep 2024 10:45:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40836 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Now Available: Eclipse IDE 2024-09</title>
+  <link>https://newsroom.eclipse.org/news/announcements/now-available-eclipse-ide-2024-09</link>
+  <description>
+&lt;span&gt;Now Available: Eclipse IDE 2024-09&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-09-11T10:11:18-04:00" title="Wednesday, September 11, 2024 - 10:11"&gt;Wed, 2024-09-11 10:11&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;Download the latest version of the leading open source platform for developers, featuring improved plug-in development tooling and Java development tooling.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://eclipseide.org/"&gt;https://eclipseide.org/&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/ide" hreflang="en"&gt;IDE&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/eclipse-ide" hreflang="en"&gt;Eclipse IDE&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Wed, 11 Sep 2024 14:11:18 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40845 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>OCX 2024: Early Bird Pricing Ends Soon!</title>
+  <link>https://newsroom.eclipse.org/news/announcements/ocx-2024-early-bird-pricing-ends-soon</link>
+  <description>
+&lt;span&gt;OCX 2024: Early Bird Pricing Ends Soon!&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-09-11T08:54:40-04:00" title="Wednesday, September 11, 2024 - 08:54"&gt;Wed, 2024-09-11 08:54&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;Time is running out to save on your registration for Open Community Experience! Register by 23 September to join our flagship developer conference in Mainz, Germany.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:6650e052-a407-44ce-a754-b31ffba18333"&gt;https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 11 Sep 2024 12:54:40 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40848 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Eclipse Foundation Releases Landmark Report on Open Source Software in Automotive Design</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-releases-landmark-report-open-source-software-automotive</link>
+  <description>
+&lt;span&gt;Eclipse Foundation Releases Landmark Report on Open Source Software in Automotive Design&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-09-10T07:00:00-04:00" title="Tuesday, September 10, 2024 - 07:00"&gt;Tue, 2024-09-10 07:00&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS – 10 September 2024 –&amp;nbsp;&lt;/strong&gt;The Eclipse Foundation, one of the world’s largest open source foundations, has released the industry’s first research report on the use of open source software (OSS) in the automotive industry. Titled&amp;nbsp;&lt;a href="https://outreach.eclipse.foundation/auto-sdv-survey-open-innovation" rel="nofollow"&gt;&lt;u&gt;“Driving Innovation &amp;amp; Building Safer Cars with Open Source Software,”&lt;/u&gt;&lt;/a&gt; this comprehensive report offers key insights into how automotive decision-makers and software professionals are leveraging OSS to transform vehicle design and production.&lt;/p&gt;
+&lt;p dir="ltr"&gt;“Open source software is playing an increasingly vital role in the development of software-defined vehicles,” said Mike Milinkovich, executive director for the Eclipse Foundation. “This is a significant milestone for open source considering the industry’s rigorous standards for safety, security, and reliability. The automotive industry’s embrace of this model is a testament to the growing maturity of open source.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;Commissioned by the Eclipse Foundation’s&amp;nbsp;&lt;a href="https://sdv.eclipse.org/" rel="nofollow"&gt;&lt;u&gt;Software Defined Vehicle (SDV) Working Group&lt;/u&gt;&lt;/a&gt;, the study surveyed 300 automotive developers and business leaders from leading OEMS and Tier-1 suppliers. The findings underscore the critical role of OSS in driving flexibility, innovation, and efficiency within the industry.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The report highlights a number of key trends relevant to automotive technology&amp;nbsp; professionals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Significant Innovation Gains&lt;/strong&gt;: A majority of companies expect to see more than a 10% increase in innovation by leveraging open source technologies and collaboration. Over 20% anticipate a 20-30% boost.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Widespread Support&lt;/strong&gt;: Almost all (98%) decision-makers and software professionals surveyed recognize the substantial value of software-defined vehicle technologies.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Cost Savings and Operational Efficiency&lt;/strong&gt;: A majority of respondents reported that open source software in SDVs has helped or will help reduce costs and drive down operational expenditures.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Enhanced Flexibility and Scalability&lt;/strong&gt;: 95% of professionals expect OSS to enhance flexibility and scalability in SDVs, improving their ability to quickly capitalise on business opportunities, reduce costs, shorten time-to-market, and gain a competitive edge.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Top Decision-Maker Priorities&lt;/strong&gt;: OSS is valued for improved performance (31%), enhanced security (27%), and customizable solutions (27%).&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Developer Priorities&lt;/strong&gt;: Ease of use (29%), enhanced security (25%), customizable solutions (22%), and the use of a common platform (21%) are the top reasons developers prioritise OSS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;In addition to presenting key findings, the report also provides recommendations for developers, business leaders, and policy makers. The “Driving Innovation &amp;amp; Building Safer Cars with Open Source Software” report is an essential resource for automotive technology leaders and business decision-makers. It is the first of three reports. Stay tuned for these upcoming in-depth reports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Report 2: The Business Value of Open Source Software in the Automotive Industry&lt;/strong&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Report 3: Challenges Facing Open Source Software in the Automotive Ecosystem&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Join the Eclipse SDV Working Group&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Explore opportunities to contribute to the global hub for software-defined vehicle innovation and collaboration. Our diverse membership of industry leaders is driving real-world innovation that is shaping the future of the automotive industry. We provide an inclusive platform where companies of all sizes can engage and contribute on equal footing. Find more details about joining us&amp;nbsp;&lt;a href="https://sdv.eclipse.org/membership/" rel="nofollow"&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Join us at the Open Community for Automotive conference, part of the&amp;nbsp;&lt;a href="https://www.ocxconf.org/event/2024/summary" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt;, from 22 to 24 October 2024 in Mainz, Germany, to learn more about the Eclipse SDV Working Group’s initiatives. Visit the OCX website for details on sponsorship and participation.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About Eclipse Software Defined Vehicle&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Eclipse Software Defined Vehicle (SDV), a working group within the Eclipse Foundation, supports the open source development of cutting-edge automotive technologies that power the programmable vehicles of the future where software defines features, functionality, and operations. With over 50 members, including leading automotive manufacturers, global cloud providers, technology innovators, and key supply chain partners, the initiative has strong industry backing. The working group's mission is to provide a collaborative forum for developing and promoting open source solutions tailored to the global automotive industry. Adopting a “code first” approach, Eclipse SDV focuses on building the industry's first open source software stacks and associated tools that will support the core functionalities of next-generation vehicles.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 415 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 360 members. Visit us at this year’s&amp;nbsp;&lt;a href="http://www.ocxconf.org/2024" rel="nofollow"&gt;&lt;u&gt;Open Community Experience (OCX)&lt;/u&gt;&lt;/a&gt; conference on 22-24 October 2024 in Mainz, Germany. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt;###&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert/Julia Rauch&lt;/p&gt;
+&lt;p dir="ltr"&gt;Sendlinger Straße 42A&lt;/p&gt;
+&lt;p dir="ltr"&gt;80331 Munich&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 -70/-43&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;&lt;u&gt;jay@nicholscomm.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Tue, 10 Sep 2024 11:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">40827 at https://newsroom.eclipse.org</guid>
+    </item>
+
+  </channel>
+</rss>
